@@ -1,0 +1,13 @@
+table.table1 td,th{
+    border:1px solid black;
+    text-align: center;
+    height: 50px;
+    width: 500px;
+}
+table.table1{
+    border-collapse: collapse;
+}
+#searchbox{
+    border-radius: 25px;
+}
+
